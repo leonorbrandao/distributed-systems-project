@@ -1,4 +1,4 @@
-# README Projeto Etapa 4: Sistemas Distribuídos 2025/2026
+# README Projeto: Sistemas Distribuídos 2025/2026
 
 Grupo SD-22\
 Autores:
